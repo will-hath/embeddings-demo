@@ -17,3 +17,15 @@ Also, you'll need to get an openai api key. You can figure out how to set that u
 ```
 OPENAI_API_KEY=[YOUR_API_KEY_HERE]
 ```
+
+## Asking for help
+I'm happy to help you with any issues you run into. But first, run through this checklist
+
+1. Read the error message
+2. Ask ChatGPT
+3. Ask a friend
+4. Google it
+
+Then, reach out.
+
+
